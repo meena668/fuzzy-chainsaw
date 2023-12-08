@@ -1,0 +1,151 @@
+
+*{
+    border-inline: border-box;
+}
+body
+{
+ background-color: rgb(14, 14, 63);
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.title 
+{
+  font-size: xx-large;
+  padding:50px 50px ;
+  font-style: italic;
+  color: rgb(30, 34, 90);
+  border-radius: 20px;
+  font-weight: bolder;
+  text-align: center;
+  text-decoration-line: underline;
+  text-shadow: 0cqmax;
+  text-decoration-color: rgb(51, 204, 212);
+  border-width: 19px;
+  border-right-style: inherit;
+  transition-duration: 20ms;
+  transition-property:all;
+  transition:ease;
+  transform: translate3d();
+  background-color: rgb(227, 223, 217);
+} 
+.image-1
+{
+  rotate:z 45deg;
+  rotate:x 45deg;
+ border-radius: 50%;
+  /* margin: auto; */
+ transform-style: preserve-3d;
+ image-orientation: from-image;
+}
+.academics
+{
+  font-size: larger;
+ background-color: rgb(118, 162, 232);
+ font-weight: bolder;
+}
+.table
+{
+ 
+  border:7px solid rgb(188, 188, 229);
+  color:rgb(28, 125, 210);
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+table,th,td{
+  border:1px solid rgb(28, 28, 71);
+  border-collapse: collapse;
+  background-color: azure;
+}
+td,th
+{
+  padding: 15px;
+}
+.project
+{
+  font-size: larger;
+  background-color: rgb(127, 176, 255);
+   font-weight: bolder;
+}
+.projecte
+{
+  background-color: azure;
+  text-align: justify;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 5px  rgb(188, 188, 229);
+  color:rgb(28, 125, 210);;
+}
+.certify
+{
+  font-size: larger;
+  background-color: rgb(127, 176, 255); 
+  font-weight: bolder;
+  font-size: 50px;
+}
+.reviews
+{
+  font-size: 50px;
+   padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px; 
+}
+h3{
+  background-color: rgb(118, 162, 232);
+}
+.but
+{
+  font-size: 30px;
+  border-radius: 50%;
+  background-color: aqua;
+  padding:80px;
+}
+.cont
+{
+  font-size: 30px;
+  color: aliceblue;
+  padding:30px
+  
+}
+.contact
+{
+  font-size: 50px;
+  background-color: rgb(127, 176, 255); 
+  font-weight: bolder;
+  
+}
+.co
+{
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px; 
+}
+.cer
+{
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px; 
+}
+.pro
+{
+  font-size: 50px;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px; 
+}
+.aca
+{
+  font-size: 50px;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px; 
+}
+.c{
+  align-content: center;
+  
+}
